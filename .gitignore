@@ -1,0 +1,6 @@
+secrets.py
+email_list.txt
+html5up-fractal/webpages/archive/*
+# general
+*.pyc
+.DS_Store
